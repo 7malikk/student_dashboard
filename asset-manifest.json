@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/students_dashboard/static/css/main.791bc324.css",
+    "main.js": "/students_dashboard/static/js/main.c1d6c4d1.js",
+    "static/js/787.18ff6a5c.chunk.js": "/students_dashboard/static/js/787.18ff6a5c.chunk.js",
+    "static/media/online.svg": "/students_dashboard/static/media/online.f43987eb1e24591a6a4e368f2ba695b9.svg",
+    "static/media/road_to_knowledege.svg": "/students_dashboard/static/media/road_to_knowledege.95606f4dcb79247cd1c71427073a569a.svg",
+    "index.html": "/students_dashboard/index.html",
+    "main.791bc324.css.map": "/students_dashboard/static/css/main.791bc324.css.map",
+    "main.c1d6c4d1.js.map": "/students_dashboard/static/js/main.c1d6c4d1.js.map",
+    "787.18ff6a5c.chunk.js.map": "/students_dashboard/static/js/787.18ff6a5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.791bc324.css",
+    "static/js/main.c1d6c4d1.js"
+  ]
+}
